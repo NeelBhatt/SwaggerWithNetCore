@@ -9,6 +9,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Swashbuckle.AspNetCore.Swagger;
+using Microsoft.Extensions.PlatformAbstractions;
+using System.IO;
 
 namespace NeelSwaggerSampleApplication
 {
@@ -45,7 +47,13 @@ namespace NeelSwaggerSampleApplication
                     TermsOfService = "None",
                     Contact = new Contact() { Name = "Neel Bhatt 2", Email = "neel.bhatt40@gmail.com", Url = "https://neelbhatt40.wordpress.com/" }
                 });
+
+                var basePath = PlatformServices.Default.Application.ApplicationBasePath;
+                var xmlPath = Path.Combine(basePath, "NeelSwaggerSampleApplication.xml");
+                c.IncludeXmlComments(xmlPath);
             });
+
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

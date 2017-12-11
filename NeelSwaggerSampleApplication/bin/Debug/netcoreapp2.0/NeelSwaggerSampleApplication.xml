@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NeelSwaggerSampleApplication</name>
+    </assembly>
+    <members>
+        <member name="M:NeelSwaggerSampleApplication.Controllers.ValuesController.Get">
+            <summary>
+            To get all the values
+            </summary>
+            <returns>List of values</returns>
+        </member>
+    </members>
+</doc>

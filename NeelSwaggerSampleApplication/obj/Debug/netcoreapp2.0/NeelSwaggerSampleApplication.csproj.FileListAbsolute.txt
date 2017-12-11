@@ -2,10 +2,10 @@ c:\users\e074368\documents\visual studio 2017\Projects\NeelSwaggerSampleApplicat
 c:\users\e074368\documents\visual studio 2017\Projects\NeelSwaggerSampleApplication\NeelSwaggerSampleApplication\bin\Debug\netcoreapp2.0\NeelSwaggerSampleApplication.runtimeconfig.json
 c:\users\e074368\documents\visual studio 2017\Projects\NeelSwaggerSampleApplication\NeelSwaggerSampleApplication\bin\Debug\netcoreapp2.0\NeelSwaggerSampleApplication.runtimeconfig.dev.json
 c:\users\e074368\documents\visual studio 2017\Projects\NeelSwaggerSampleApplication\NeelSwaggerSampleApplication\bin\Debug\netcoreapp2.0\NeelSwaggerSampleApplication.dll
-c:\users\e074368\documents\visual studio 2017\Projects\NeelSwaggerSampleApplication\NeelSwaggerSampleApplication\obj\Debug\netcoreapp2.0\NeelSwaggerSampleApplication.csprojResolveAssemblyReference.cache
 c:\users\e074368\documents\visual studio 2017\Projects\NeelSwaggerSampleApplication\NeelSwaggerSampleApplication\obj\Debug\netcoreapp2.0\NeelSwaggerSampleApplication.csproj.CoreCompileInputs.cache
 c:\users\e074368\documents\visual studio 2017\Projects\NeelSwaggerSampleApplication\NeelSwaggerSampleApplication\obj\Debug\netcoreapp2.0\NeelSwaggerSampleApplication.AssemblyInfoInputs.cache
 c:\users\e074368\documents\visual studio 2017\Projects\NeelSwaggerSampleApplication\NeelSwaggerSampleApplication\obj\Debug\netcoreapp2.0\NeelSwaggerSampleApplication.AssemblyInfo.cs
 c:\users\e074368\documents\visual studio 2017\Projects\NeelSwaggerSampleApplication\NeelSwaggerSampleApplication\bin\Debug\netcoreapp2.0\NeelSwaggerSampleApplication.pdb
 c:\users\e074368\documents\visual studio 2017\Projects\NeelSwaggerSampleApplication\NeelSwaggerSampleApplication\obj\Debug\netcoreapp2.0\NeelSwaggerSampleApplication.dll
 c:\users\e074368\documents\visual studio 2017\Projects\NeelSwaggerSampleApplication\NeelSwaggerSampleApplication\obj\Debug\netcoreapp2.0\NeelSwaggerSampleApplication.pdb
+C:\Users\E074368\Documents\Visual Studio 2017\Projects\NeelSwaggerSampleApplication\NeelSwaggerSampleApplication\bin\Debug\netcoreapp2.0\NeelSwaggerSampleApplication.xml

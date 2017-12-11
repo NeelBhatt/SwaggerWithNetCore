@@ -12657,11 +12657,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\e074368\\documents\\visual studio 2017\\Projects\\NeelSwaggerSampleApplication\\NeelSwaggerSampleApplication\\NeelSwaggerSampleApplication.csproj",
+      "projectUniqueName": "C:\\Users\\E074368\\Documents\\Visual Studio 2017\\Projects\\NeelSwaggerSampleApplication\\NeelSwaggerSampleApplication\\NeelSwaggerSampleApplication.csproj",
       "projectName": "NeelSwaggerSampleApplication",
-      "projectPath": "c:\\users\\e074368\\documents\\visual studio 2017\\Projects\\NeelSwaggerSampleApplication\\NeelSwaggerSampleApplication\\NeelSwaggerSampleApplication.csproj",
+      "projectPath": "C:\\Users\\E074368\\Documents\\Visual Studio 2017\\Projects\\NeelSwaggerSampleApplication\\NeelSwaggerSampleApplication\\NeelSwaggerSampleApplication.csproj",
       "packagesPath": "C:\\Users\\E074368\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\e074368\\documents\\visual studio 2017\\Projects\\NeelSwaggerSampleApplication\\NeelSwaggerSampleApplication\\obj\\",
+      "outputPath": "C:\\Users\\E074368\\Documents\\Visual Studio 2017\\Projects\\NeelSwaggerSampleApplication\\NeelSwaggerSampleApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,7 +9,10 @@ namespace NeelSwaggerSampleApplication.Controllers
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
-        // GET api/values
+        /// <summary>
+        /// To get all the values
+        /// </summary>
+        /// <returns>List of values</returns>
         [HttpGet]
         public IEnumerable<string> Get()
         {
